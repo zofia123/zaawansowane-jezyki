@@ -113,5 +113,5 @@ Program Parrot przechowuje informacje na temat trzech różnych rodzajów papug:
 
 ## Podsumowanie
 <p align="center">
-    <img src="Chart/metryki.png">
+    <img src="chart/metryki.png">
 </p>
